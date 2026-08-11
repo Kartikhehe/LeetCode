@@ -29,5 +29,6 @@
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Kartikhehe/LeetCode/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/Kartikhehe/LeetCode/tree/master/0620-not-boring-movies) |
 | [1280-students-and-examinations](https://github.com/Kartikhehe/LeetCode/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
