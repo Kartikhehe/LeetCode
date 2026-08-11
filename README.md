@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Kartikhehe/LeetCode/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Kartikhehe/LeetCode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
