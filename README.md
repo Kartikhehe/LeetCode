@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartikhehe/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0312-burst-balloons](https://github.com/Kartikhehe/LeetCode/tree/master/0312-burst-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartikhehe/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0312-burst-balloons](https://github.com/Kartikhehe/LeetCode/tree/master/0312-burst-balloons) |
 ## Greedy
 |  |
 | ------- |
