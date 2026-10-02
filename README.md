@@ -4,11 +4,13 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kartikhehe/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartikhehe/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0312-burst-balloons](https://github.com/Kartikhehe/LeetCode/tree/master/0312-burst-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kartikhehe/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartikhehe/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0312-burst-balloons](https://github.com/Kartikhehe/LeetCode/tree/master/0312-burst-balloons) |
 ## Greedy
@@ -34,4 +36,16 @@
 | [0620-not-boring-movies](https://github.com/Kartikhehe/LeetCode/tree/master/0620-not-boring-movies) |
 | [1251-average-selling-price](https://github.com/Kartikhehe/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Kartikhehe/LeetCode/tree/master/1280-students-and-examinations) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kartikhehe/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kartikhehe/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kartikhehe/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
