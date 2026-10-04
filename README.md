@@ -6,12 +6,14 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kartikhehe/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartikhehe/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Kartikhehe/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Kartikhehe/LeetCode/tree/master/0312-burst-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kartikhehe/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartikhehe/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Kartikhehe/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Kartikhehe/LeetCode/tree/master/0312-burst-balloons) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Kartikhehe/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
@@ -69,4 +71,12 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Kartikhehe/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Kartikhehe/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Kartikhehe/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
