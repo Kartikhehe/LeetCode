@@ -1,18 +1,32 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    // Added default minNode and maxNode parameters
-    bool isValidBST(TreeNode* root, TreeNode* minNode = nullptr, TreeNode* maxNode = nullptr) {
-        if(root == nullptr) return true;
+    bool isValidBST(TreeNode* root) {
+        if(root == nullptr)return true;
+        bool left = isValidBST(root->left);
+        bool right = isValidBST(root->right);
+        TreeNode* temp = root->left;
+        while(temp!=nullptr && temp->right!=nullptr){
+            temp = temp->right;
+        }
+        if(root->left && temp!=root && temp->val >= root->val)return false;
+        temp = root->right;
+        while(temp!=nullptr && temp->left!=nullptr){
+            temp = temp->left;
+        }
+        if(root->right && temp!=root && temp->val <= root->val)return false;
         
-        // Replaced immediate child checks with checks against the ancestor limits
-        if(minNode && root->val <= minNode->val) return false;
-        if(maxNode && root->val >= maxNode->val) return false;
-        
-        // Passed the current root down as the new limit for the subtrees
-        bool left = isValidBST(root->left, minNode, root);
-        bool right = isValidBST(root->right, root, maxNode);
-        
-        if(!left || !right) return false;
+        if(!left || !right)return false;
         return true;
     }
 };
