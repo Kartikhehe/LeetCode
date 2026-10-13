@@ -39,6 +39,7 @@
 | [0620-not-boring-movies](https://github.com/Kartikhehe/LeetCode/tree/master/0620-not-boring-movies) |
 | [1251-average-selling-price](https://github.com/Kartikhehe/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Kartikhehe/LeetCode/tree/master/1280-students-and-examinations) |
+| [1661-average-time-of-process-per-machine](https://github.com/Kartikhehe/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 ## Two Pointers
 |  |
 | ------- |
